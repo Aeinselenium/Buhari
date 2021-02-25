@@ -1,0 +1,10 @@
+
+  
+<suite name="Smoke"  >
+  <test name="PrimusBank" >
+    <classes>
+       <class name="com.aein.testng.AnnotationsTest1" />
+<class name="com.aein.testng.AnnotationsTest2" />
+    </classes>
+  </test>  
+</suite>
